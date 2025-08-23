@@ -20,7 +20,7 @@ This project demonstrates a full data science workflow to identify high-opportun
    2. Model II: Opportunity score = population density (KDE) divided by store density (KDE)
 - Interactive visualizations and actionable insights for optimal supermarket placement
 
-![results](images\pop_store_score_map.gif)
+![results](images/pop_store_score_map.gif)
 
 This project is ideal for demonstrating spatial data science, geospatial analysis, and business impact in a real-world context.
 
