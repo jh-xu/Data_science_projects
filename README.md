@@ -59,6 +59,3 @@ https://github.com/user-attachments/assets/6bf90816-9287-465f-99a3-ebf24fef135e
 
 
 <!-- # [![dashboard](images/app_cover.png)](https://youtu.be/fwuZ7F4Wf8Y)
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fwuZ7F4Wf8Y?si=O96V4G9epO3Mxjic&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
