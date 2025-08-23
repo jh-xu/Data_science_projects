@@ -55,6 +55,9 @@ Detect sarcasm and misleading headlines using headline text only. This project d
 
 A reproducible workflow to forecast major natural gas price benchmarks (Henry Hub, TTF, PSV, JKM) using classical time-series methods and modern neural forecasting tools, including auto-arima, Prophet, N-Beats, TFT, and TimeGPT.
 
+https://github.com/user-attachments/assets/6bf90816-9287-465f-99a3-ebf24fef135e
+
+
 <!-- # [![dashboard](images/app_cover.png)](https://youtu.be/fwuZ7F4Wf8Y)
 
 
