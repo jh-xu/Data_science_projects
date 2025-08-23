@@ -18,4 +18,4 @@ All data are publicly available including the historical spot prices, temperatur
 
 ## Dashboard demonstration
 
-![dashboard](images/app_video.mp4)
+![dashboard](https://youtu.be/fwuZ7F4Wf8Y)
