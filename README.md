@@ -58,4 +58,7 @@ A reproducible workflow to forecast major natural gas price benchmarks (Henry Hu
 https://github.com/user-attachments/assets/6bf90816-9287-465f-99a3-ebf24fef135e
 
 
-<!-- # [![dashboard](images/app_cover.png)](https://youtu.be/fwuZ7F4Wf8Y)
+<!-- [![dashboard](images/app_cover.png)](https://youtu.be/fwuZ7F4Wf8Y)
+
+[<img src="https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/<VIDEO_ID>)
