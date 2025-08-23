@@ -40,7 +40,7 @@ Predict which telecom customers are most likely to churn and surface the busines
 
 ![shap](images/tele_shap.png)
 
-## Sarcasm Detector (Fake_news_detector)
+## Sarcasm Detector (Fake news detector)
 
 Detect sarcasm and misleading headlines using headline text only. This project demonstrates an end-to-end classification experiment comparing simple, fast baselines with more advanced embedding and transformer approaches.
 
