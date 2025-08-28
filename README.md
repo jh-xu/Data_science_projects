@@ -6,6 +6,16 @@ This workspace is a curated collection of small-to-medium end-to-end data scienc
 
 The projects are organized so a reviewer can quickly find a narrative and the code required to reproduce key results. Where relevant, notebooks include a short "Quick run" recommendation and pointers to reduce runtime for reviewers who want a fast preview.
 
+## Visualization and dashboards
+
+This project demonstrates interactive data visualization with Plotly in both Streamlit and Dash. It includes:
+
+- Global Internet Usage Explorer (1960–present): line plots by selected countries/categories and a choropleth map with a year slider, powered by custom GeoJSON.
+  
+- A Plotly notebook with additional examples, including a Switzerland renewable energy analysis (pie charts, time-evolution/cumulative capacity, and an animated geo-scatter with canton borders).
+
+![map](images/electr_animation.gif)
+
 ## Finding the Best Locations for New Supermarkets in Munich
 
 This project demonstrates a full data science workflow to identify high-opportunity locations for new supermarket openings in Munich. It combines automated data collection, spatial data integration, and advanced modeling to support data-driven retail expansion decisions.
